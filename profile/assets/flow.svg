@@ -1,0 +1,476 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 400" width="1280" height="400" role="img" aria-label="From event to evidence, in one loop. Trigger, orchestrate, collect and analyse, act and record.">
+<title>From event to evidence, in one loop. Trigger, orchestrate, collect and analyse, act and record.</title>
+<defs>
+<style>[fill="#a00001"]{fill:#f3f5fb}[fill="#a00002"]{fill:#ffffff}[fill="#a00005"]{fill:#0e00ff}[stroke="#a00005"]{stroke:#0e00ff}[fill="#a00007"]{fill:#000000}[fill="#a00008"]{fill:#5e6370}[stroke="#a00009"]{stroke:#c9d5e6}[stroke="#a0000f"]{stroke:#e1e5f5}@media (prefers-color-scheme:dark){[fill="#a00001"]{fill:#000000}[fill="#a00002"]{fill:#0e0e14}[fill="#a00005"]{fill:#4747ff}[stroke="#a00005"]{stroke:#4747ff}[fill="#a00007"]{fill:#ffffff}[fill="#a00008"]{fill:#9a9faa}[stroke="#a00009"]{stroke:#22222c}[stroke="#a0000f"]{stroke:#1b1b24}}</style>
+<path id="g0" d="m117 146l0 19l-110 0l0-165l19 0l0 73l77 0l0 19l-77 0l0 54l91 0z"/>
+<path id="g1" d="m67 120c-16 0-31-7-42-17l0 17l-18 0l0-120l18 0l0 60c0 11 5 22 12 30c8 8 19 12 30 12c3 0 5 0 8-1l0 18c-3 1-5 1-8 1z"/>
+<path id="g2" d="m108 102c-11 12-26 18-42 18c-33 0-60-27-60-60c0-33 26-60 59-60c16 0 32 6 43 17c11 12 18 27 18 43c0 16-6 31-18 42zm0-45c-1-19-18-39-42-39l-1 0c-23 0-41 19-41 42c0 11 4 22 12 30c8 8 18 12 30 12c11 0 22-4 30-13c8-8 12-20 12-32z"/>
+<path id="g3" d="m173 23c0 16 0 33 0 49c0 8-2 16-5 23c-7 12-18 21-31 24c-14 3-28 0-38-9c-2-1-4-2-5-4l-5-3l-2 2c-8 8-18 13-28 15c-14 1-27-3-37-12c-10-8-15-21-15-34c-1-18-1-36 0-53l0-21l19 0l0 74c0 14 10 25 23 26c8 1 16-1 22-6c6-5 9-12 9-20c0-20 0-39 0-58l0-16l20 0l0 70c0 2 0 4 0 6c1 15 13 25 29 24c13 0 25-12 25-26c0-19 0-38 0-56l0-18l19 0z"/>
+<path id="g4" d=""/>
+<path id="g5" d="m125 65c-2 31-29 55-59 55c-33 0-60-27-60-60c0-33 27-60 60-60c18 0 35 8 47 23l3 3l-16 9l-2-2c-8-10-20-15-32-15c-15 0-30 8-37 22c4 6 16 11 30 11l66 0l0 4c1 2 1 3 1 5c0 2 0 3-1 5zm-18 4l-48 0c-14 0-26-4-35-10c0 1 0 1 0 1c0 23 19 42 42 42c20 0 37-14 41-33z"/>
+<path id="g6" d="m106 120l-40-98l-40 98l-21 0l49-120l3 0l18 0l2 0l50 120z"/>
+<path id="g7" d="m6 69l0-69l19 0l0 69c0 18 15 32 33 32c17 0 32-14 32-32l0-69l19 0l0 69c0 28-23 51-51 51c-29 0-51-23-51-51z"/>
+<path id="g8" d="m62 18c-12 0-22 10-22 22l0 63l25 0l0 16l-25 0l0 46l-18 0l0-46l-16 0l0-16l16 0l0-66c0-20 16-37 37-37l10 0l0 18l-7 0z"/>
+<path id="g9" d="m14 0l19 0l0 119l-19 0zm9 141c7 0 12 5 12 12c0 6-5 12-12 12c-6 0-12-6-12-12c0-7 6-12 12-12z"/>
+<path id="g10" d="m126 52c0 2 0 4-1 6c4 17 5 33 6 45c0 7 0 59-1 61c0 1 0 1 0 1l-17 0c0-3 0-53 0-56c1-7 0-13 0-18c-2 3-5 5-7 8c0 1-1 1-1 2c-15 16-41 19-58 13c-22-7-38-27-41-49c-2-23 10-46 29-57c21-12 48-8 65 7c0 0 0 0 1 0c4 4 8 9 12 14c0-7 1-15 0-24c0-1 0-3 0-5l18 0c0 0 0 1 0 2c0 7 0 28-5 50zm-46-29c-5-3-11-4-17-4c-5 0-10 1-14 3c-17 6-27 24-25 42c2 17 17 32 34 34c2 1 3 1 5 1c22 0 39-19 43-38l0-1l0-1c0 0 0 0 0 0c-3-15-13-29-26-36z"/>
+<path id="g11" d="m102 40l-2-3c-8-11-21-18-34-18c-23 0-41 18-41 41c0 22 18 41 41 41c13 0 26-7 34-18l2-3l18 6l-3 5c-11 18-30 29-51 29c-33 0-60-27-60-60c0-33 27-60 60-60c21 0 40 11 51 29l3 5l-18 6z"/>
+<path id="g12" d="m21 31l-13 0l0-18l8 0l-1-2l-8-30l15 0l13 30l0 2l0 18z"/>
+<path id="g13" d="m43 18l-4 0c-7 0-12 6-12 13l0 134l-19 0l0-138c0-15 12-27 27-27l8 0l0 18z"/>
+<path id="g14" d="m11 68c1-2 1-4 2-6c-4-17-6-33-6-45c0-7 0-59 0-61c0-1 0-1 0-1l18 0c0 3-1 53-1 56c0 6 0 12 1 18c2-3 4-5 6-8c1-1 1-1 2-2c15-16 41-19 58-13c21 7 38 27 41 49c2 23-10 46-30 57c-21 12-47 8-65-7c0 0 0 0 0 0c-5-4-9-9-12-14c-1 7-1 15-1 23c1 2 1 4 1 6l-19 0c0 0 0-1 0-2c0-7 0-28 5-50zm46 28c6 3 12 5 18 5c4 0 9-1 14-3c16-7 27-25 25-42c-2-17-17-32-34-35c-2 0-4 0-5 0c-23 0-40 19-43 38l-1 1l1 1c0 0 0 0 0 0c3 15 13 29 25 35z"/>
+<path id="g15" d="m11 4c3-3 6-4 10-4c4 0 7 1 10 4c2 3 3 6 3 10c0 4-1 7-3 10c-3 3-6 4-10 4c-4 0-7-1-10-4c-3-3-4-6-4-10c0-4 1-7 4-10z"/>
+<path id="g16" d="m106 143c-8 15-23 22-43 22c-21 0-36-7-44-22c-4-7-7-16-9-26c-2-10-4-21-4-34c0-26 5-47 13-61c8-15 23-22 44-22c21 0 35 7 43 22c9 14 13 35 13 61c0 26-4 46-13 60zm-8-95c-2-9-6-16-11-22c-6-6-14-9-24-9c-10 0-19 3-24 9c-6 6-9 13-11 22c-2 10-3 21-3 35c0 13 1 24 3 33c2 10 5 17 11 23c5 6 13 9 24 9c10 0 18-3 24-9c5-6 9-13 11-23c1-9 2-20 2-33c0-13-1-25-2-35z"/>
+<path id="g17" d="m6 165l0-18l22 0l0-147l20 0l0 165l-42 0z"/>
+<path id="g18" d="m117 165l-47 0l-18 0l-46 0l0-19l46 0l0-146l18 0l0 146l47 0z"/>
+<path id="g19" d="m93-19l0 0c-8-8-18-12-29-12c-10 0-19 3-26 9c-6 5-10 11-12 18l-17-7c5-12 13-22 25-29c9-6 19-9 30-9c12 0 24 4 34 12c10 7 17 15 20 26l-16 6c-2-5-5-10-9-14zm29 139l0 0l-18 0c0-3 0-6-1-9l-1-5l-5 3c-10 7-21 11-34 11c-13 0-26-5-36-13c-6-5-10-10-14-17c-5-8-7-18-7-28c0-32 26-58 58-58c15 0 30 6 41 17c11 11 17 26 17 41c0 9-3 19-7 27l-1 2l1 2c4 8 7 17 7 27zm-29-86c-8-8-18-12-28-12l-1 0c-11 0-21 4-29 11c-7 8-12 18-12 29c0 4 1 8 2 12c2 7 6 13 11 18c8 6 17 10 27 10l1 0c10 0 19-3 27-10c5-5 9-11 11-18c1-3 2-6 2-10c1-11-3-22-11-30z"/>
+<path id="g20" d="m4 0l68 186l27 0l68-186l-24 0l-40 112q-3 10-8 25q-5 15-12 38l5 0q-7-23-12-38q-4-15-8-25l-40-112zm35 52l0 20l93 0l0-20z"/>
+<path id="g21" d="m39 80l0-80l-21 0l0 136l21 0l0-33l-5 0q6 18 18 27q12 8 28 8q13 0 24-6q11-6 18-18q6-11 6-29l0-85l-22 0l0 83q0 17-8 26q-9 9-24 9q-10 0-18-4q-7-4-12-12q-5-9-5-22z"/>
+<path id="g22" d=""/>
+<path id="g23" d="m57-2q-13 0-23 4q-11 5-18 14q-6 9-6 23q0 11 5 19q5 7 13 11q7 4 16 7q10 2 20 3q12 1 20 2q8 1 11 3q3 2 3 8l0 0q0 8-3 14q-3 6-10 9q-7 3-16 3q-9 0-17-3q-7-3-11-8q-4-5-5-11l-22 4q3 12 10 20q8 9 20 14q11 4 25 4q9 0 19-2q9-3 16-8q7-6 12-15q4-9 4-21l0-92l-22 0l0 19l0 0q-3-5-8-10q-5-5-13-8q-8-3-20-3zm4 19q13 0 21 5q8 4 12 12q4 8 4 16l0 18q-1-1-5-2q-4-2-9-3q-5-1-10-1q-6-1-11-2q-8-1-15-4q-7-2-11-6q-4-5-4-12q0-7 3-12q4-4 10-6q6-3 15-3z"/>
+<path id="g24" d="m39 186l0-186l-21 0l0 186z"/>
+<path id="g25" d="m18 0l0 136l20 0l0-22l1 0q4 11 13 18q9 6 21 6q3 0 6 0q3-1 4-1l0-22q-1 0-5 1q-4 0-8 0q-8 0-15-4q-7-3-11-10q-5-8-5-18l0-84z"/>
+<path id="g26" d="m18 0l0 136l21 0l0-30l-2 0q3 11 9 18q6 7 14 10q9 4 18 4q15 0 26-9q10-9 12-23l-3 0q2 10 9 17q6 7 15 11q9 4 21 4q12 0 22-5q10-5 16-16q6-11 6-27l0-90l-22 0l0 90q0 15-9 22q-9 6-20 6q-9 0-16-4q-7-4-11-11q-4-7-4-16l0-87l-21 0l0 92q0 12-8 19q-8 7-20 7q-8 0-15-4q-8-4-12-12q-5-7-5-18l0-84z"/>
+<path id="g27" d="m11-40l11 66l24 0l-19-66z"/>
+<path id="g28" d="m18-52l0 188l21 0l0-21l1 0q3 5 8 11q6 5 14 8q8 4 19 4q17 0 31-9q13-9 20-25q7-15 7-36q0-22-7-38q-7-15-20-24q-13-9-31-9q-10 0-18 3q-8 4-13 10q-6 5-10 11l-1 0l0-73zm60 69q12 0 21 6q9 6 13 17q5 12 5 28q0 15-5 26q-4 12-13 18q-9 6-21 6q-13 0-22-6q-8-6-13-18q-5-11-5-26q0-16 5-27q5-11 14-17q9-7 21-7z"/>
+<path id="g29" d="m74 136l0-19l-72 0l0 19zm-50 34l22 0l0-136q0-8 4-12q3-4 12-4q2 0 6 0q3 1 6 1l2-19q-4 0-8 0q-4-1-8-1q-17 0-26 9q-10 8-10 24z"/>
+<path id="g30" d="m74-3q-20 0-34 9q-14 9-22 24q-7 16-7 37q0 21 7 37q8 16 22 25q14 9 32 9q12 0 23-4q11-5 19-14q9-8 14-21q4-13 4-31l0-7l-108 0l0 19l96 0l-9-7q0 13-5 23q-5 11-14 16q-8 6-20 6q-12 0-21-6q-9-5-14-15q-5-10-5-23l0-10q0-15 5-26q5-10 15-16q9-5 22-5q9 0 16 3q7 2 12 7q4 5 7 12l21-3q-3-11-10-20q-8-9-20-14q-12-5-26-5z"/>
+<path id="g31" d="m57 0l-52 136l24 0l29-80q4-11 7-22q3-10 7-21l-7 0q4 11 7 21q3 11 7 22l29 80l24 0l-52-136z"/>
+<path id="g32" d="m73-3q-19 0-33 9q-14 9-22 24q-7 16-7 37q0 21 7 37q8 16 22 25q14 9 33 9q19 0 33-9q14-9 22-25q8-16 8-37q0-21-8-37q-8-15-22-24q-14-9-33-9zm0 20q13 0 22 7q9 6 14 18q5 11 5 25q0 15-5 27q-5 11-14 18q-9 6-22 6q-13 0-22-6q-9-7-13-18q-5-12-5-27q0-14 5-25q4-12 13-18q9-7 22-7z"/>
+<path id="g33" d="m64-3q-14 0-26 5q-11 4-18 13q-7 9-9 22l21 2q2-11 10-17q8-6 22-6q14 0 22 6q8 6 8 14q0 8-5 12q-5 5-15 7l-22 6q-18 4-28 13q-9 10-9 24q0 12 7 21q6 9 17 14q11 5 25 5q14 0 25-5q11-5 17-13q6-9 8-21l-21-2q-1 9-8 15q-7 7-21 7q-12 0-20-5q-7-6-7-15q0-8 5-13q6-4 17-6l21-5q19-5 28-14q9-9 9-23q0-13-7-22q-7-9-18-14q-12-5-28-5z"/>
+<path id="g34" d="m73-3q-19 0-33 9q-14 9-22 24q-7 16-7 37q0 21 7 37q8 16 22 25q14 9 33 9q11 0 20-3q9-3 17-9q7-6 12-14q5-7 7-17l-21-3q-2 6-5 11q-3 5-7 8q-4 3-10 5q-6 2-13 2q-13 0-22-6q-9-7-13-18q-5-12-5-27q0-14 5-25q4-12 13-18q9-7 22-7q7 0 13 1q6 2 10 6q4 3 7 8q3 5 5 11l21-3q-2-9-7-17q-5-8-12-14q-8-6-17-9q-9-3-20-3z"/>
+<path id="g35" d="m39 80l0-80l-21 0l0 186l21 0l0-83l-5 0q6 18 18 27q12 8 28 8q13 0 24-6q11-6 18-18q6-11 6-29l0-85l-22 0l0 83q0 17-8 26q-9 9-24 9q-10 0-18-4q-7-4-12-12q-5-9-5-22z"/>
+<path id="g36" d="m69-3q-17 0-31 9q-13 9-20 24q-7 16-7 38q0 21 7 36q7 16 20 25q14 9 31 9q11 0 19-4q8-3 13-8q5-6 9-11l1 0l0 71l21 0l0-186l-21 0l0 21l-1 0q-4-6-10-11q-5-6-12-10q-8-3-19-3zm3 20q13 0 22 7q8 6 13 17q5 11 5 27q0 15-5 26q-5 12-13 18q-9 6-22 6q-12 0-21-6q-9-6-13-18q-5-11-5-26q0-16 5-28q4-11 13-17q9-6 21-6z"/>
+<path id="g37" d="m66-2q-14 0-25 6q-11 6-17 18q-6 11-6 28l0 86l21 0l0-84q0-17 9-26q8-8 23-8q9 0 17 4q8 4 13 12q5 9 5 21l0 81l22 0l0-136l-22 0l0 33l5 0q-7-19-19-27q-11-8-26-8z"/>
+<path id="g38" d="m18 0l0 136l21 0l0-136zm10 160q-6 0-10 4q-4 4-4 11q0 6 4 10q4 4 10 4q7 0 12-4q4-4 4-11q0-6-4-10q-5-4-12-4z"/>
+<path id="g39" d="m32-2q-7 0-12 5q-4 5-4 11q0 7 4 12q5 4 12 4q7 0 12-4q4-5 4-12q0-6-4-11q-5-5-12-5z"/>
+<path id="g40" d="m35 16l1 1c15 12 28 23 37 32c10 9 18 19 26 31c7 12 11 24 11 37c0 15-5 27-14 35c-9 9-21 13-37 13c-15 0-27-5-37-14c-8-8-13-20-15-34l19-4c0 11 3 19 9 26c6 6 14 10 25 10c10 0 19-3 23-9c5-6 8-14 8-24c0-11-4-22-12-33c-7-11-17-21-27-31c-6-5-12-11-20-17c-8-7-16-14-26-21l0-14l109 0l0 16l-80 0z"/>
+<path id="g41" d="m82 0c42 0 76 37 76 82c0 46-34 83-76 83c-42 0-76-37-76-83c0-45 34-82 76-82zm0 146c31 0 57-28 57-64c0-35-26-63-57-63c-32 0-58 28-58 63c0 36 26 64 58 64z"/>
+<path id="g42" d="m57 119c-12 0-23-5-32-12l0 58l-18 0l0-165l18 0l0 68c0 18 15 32 32 32c18 0 33-14 33-32l0-68l18 0l0 68c0 28-23 51-51 51z"/>
+<path id="g43" d="m107 34l0 0c0 13-11 25-27 30c-5 2-12 3-18 4c-13 3-26 5-31 13c-2 3-3 6-2 9c2 4 7 8 13 10c12 3 25 1 35-4c5-4 10-8 12-14c6 2 12 3 18 4l0 0c-3 10-11 20-21 26c-14 8-32 10-49 6c-12-4-21-11-25-21c-3-8-2-17 3-26c10-15 28-18 43-21c6-1 12-2 16-3c10-4 15-10 15-14c0-5-7-9-10-11c-12-5-28-5-40 1c-6 3-11 7-15 12c-6-1-12-2-19-3c5-11 14-21 27-26c8-4 18-6 27-6c10 0 19 2 27 5c14 7 22 17 21 29z"/>
+<path id="g44" d="m128 53c0 2-1 4-1 6c4 17 5 34 6 46c0 7-1 12-1 14c0 1 0 1 0 1l-18 0c1-3 1-6 1-9c0-7 0-13-1-18c-2 2-4 5-6 8c-1 0-1 1-2 1c-15 17-41 20-59 14c-22-7-38-28-41-50c-2-23 10-47 30-58c21-12 48-9 66 7c0 0 0 0 0 0c5 4 9 9 12 14c1-7 2-15 1-23c0-2 0-4-1-6l19 0c0 0 0 1 0 2c0 7 0 28-5 51zm-47-29c-5-3-11-5-17-5c-5 0-10 1-15 3c-16 7-27 25-25 43c2 17 17 33 35 35c1 0 3 0 5 0c22 0 40-19 44-38l0-1l0-1c0 0 0 0 0 0c-4-16-14-30-27-36z"/>
+<path id="g45" d="m81-3q-21 0-37 7q-15 7-24 20q-8 13-8 31l24 0q0-12 6-21q6-8 16-12q10-4 23-4q13 0 23 4q10 4 16 12q6 7 6 17q0 8-4 13q-5 6-13 10q-8 4-20 7l-22 6q-26 7-39 19q-12 11-12 30q0 16 8 28q9 12 24 18q14 7 32 7q19 0 34-7q14-7 22-19q8-12 8-28l-22 0q-2 16-13 25q-11 8-29 8q-12 0-22-4q-9-4-14-11q-5-7-5-16q0-8 5-13q4-6 12-10q9-4 20-6l20-6q10-2 20-6q10-5 17-11q7-6 11-15q4-8 4-19q0-16-8-28q-8-12-23-19q-15-7-36-7z"/>
+<path id="g46" d="m17-52l3 20l8-1q5-1 10 1q4 1 8 5q3 4 5 12l6 15l-52 136l24 0l29-80q4-11 8-22q3-10 6-21l-7 0q3 11 7 21q3 11 7 22l29 80l24 0l-62-159q-3-10-8-17q-6-6-14-10q-7-3-16-3q-5 0-8 1q-4 0-7 0z"/>
+<path id="g47" d="m73-54q-15 0-27 4q-11 4-18 12q-8 8-11 18l20 6q3-6 7-11q5-5 12-7q7-3 17-3q17 0 27 9q11 8 11 25l0 23l-1 0q-4-6-10-11q-5-5-12-8q-8-3-19-3q-17 0-30 8q-13 8-21 24q-7 15-7 36q0 21 7 36q8 16 21 25q13 9 30 9q11 0 19-4q8-3 14-8q5-6 8-12l1 0l0 22l22 0l0-138q0-18-9-30q-8-12-21-17q-13-5-30-5zm-1 73q13 0 22 6q8 6 13 17q5 11 5 26q0 15-4 26q-5 12-14 18q-9 6-22 6q-12 0-21-6q-9-6-13-17q-5-11-5-27q0-15 5-26q4-11 13-17q9-6 21-6z"/>
+<path id="g48" d="m103 71c-6 7-14 12-23 14l-1 0l0 3l1 0c8 2 15 6 20 12c5 7 8 15 8 24c0 8-2 15-6 21c-3 6-9 11-16 14c-7 4-16 6-26 6c-15 0-27-4-37-12c-4-3-8-8-11-13c-1-4-3-8-4-12l18-5c1 8 5 14 10 19c6 4 14 7 23 7c10 0 18-3 23-7c5-5 8-12 8-20c0-10-4-17-11-21c-7-5-18-7-32-7l-4 0l0-16l4 0c15 0 27-2 34-7c8-5 12-14 12-25c0-9-3-16-8-22c-6-5-14-8-25-8c-11 0-19 3-26 8c-5 6-9 13-10 21l-18-5c2-12 8-21 16-28c10-8 23-12 38-12c11 0 20 2 28 6c8 4 13 9 17 15c4 7 6 15 6 23c0 11-3 20-8 27z"/>
+<path id="g49" d="m131 51c-10-20-28-32-49-32c-32 0-58 28-58 63c0 36 26 64 58 64c21 0 39-12 49-31l20 1c-12 29-38 49-69 49c-42 0-76-37-76-83c0-45 34-82 76-82c31 0 58 20 69 50l-20 1z"/>
+<path id="g50" d="m127 39c3 5 6 9 9 14l12 22l-16 10l-15-26l-4-6l-47 48c-6 6-10 11-12 15c-3 5-4 9-4 14c0 5 2 9 5 13c4 3 9 5 15 5c6 0 10-2 14-6c3-3 5-8 5-14l20 0c1 7-1 13-4 19c-3 5-7 10-13 13c-6 3-13 5-21 5c-8 0-16-2-22-5c-6-3-11-7-14-12c-4-6-5-12-5-18c0-6 1-12 3-16c2-5 5-11 10-16c-12-5-21-12-27-20c-7-9-10-19-10-30c0-9 3-18 7-25c5-7 11-13 19-17c9-4 18-6 29-6c11 0 21 2 29 6c9 4 17 10 25 18l20-21l27 0l-35 36zm-44-16c-7-4-14-5-22-5c-10 0-18 3-25 9c-6 6-9 13-9 22c0 16 9 28 28 35l46-47c-5-6-12-11-18-14z"/>
+<path id="g51" d="m125 120l-20 0l-40-89l-39 89l-21 0l50-112l-18-41l-3-7l20 0l3 7z"/>
+<path id="g52" d="m73 0l-69 186l25 0l39-111q4-9 9-25q5-16 12-39l-5 0q7 24 12 39q5 16 8 25l39 111l24 0l-68-186z"/>
+<path id="g53" d="m98 88l0-21l-82 0l0 21z"/>
+<path id="g54" d="m111 54l0 111l-24 0l-81-113l0-15l86 0l0-37l19 0l0 37l24 0l0 17zm-18 0l-65 0l65 92z"/>
+<path id="g55" d="m84 165l-29 0l-50-165l19 0l11 35l69 0l10-35l20 0zm-44-113l29 97l30-97z"/>
+<path id="g56" d="m97-3q-25 0-43 12q-19 12-30 33q-11 22-11 51q0 29 11 51q11 21 30 33q18 12 43 12q24 0 43-12q19-12 30-33q10-22 10-51q0-29-10-51q-11-21-30-33q-19-12-43-12zm0 22q17 0 31 9q13 8 22 24q8 17 8 41q0 24-8 41q-9 16-22 25q-14 9-31 9q-17 0-31-9q-14-9-22-25q-8-17-8-41q0-24 8-41q8-16 22-24q14-9 31-9z"/>
+<path id="g57" d="m81-3q-10 0-18 3q-8 4-13 10q-6 5-10 11l-1 0l0-21l-21 0l0 186l21 0l0-71l1 0q4 5 9 11q5 5 13 8q8 4 19 4q17 0 31-9q13-9 20-25q7-15 7-36q0-22-7-38q-7-15-20-24q-13-9-31-9zm-3 20q12 0 21 6q9 6 13 17q5 12 5 28q0 15-5 26q-4 12-13 18q-9 6-21 6q-13 0-22-6q-8-6-13-18q-5-11-5-26q0-16 5-27q5-11 14-17q9-7 21-7z"/>
+<path id="g58" d="m78 136l0-19l-76 0l0 19zm-51-136l0 157q0 11 5 18q5 7 14 11q8 4 18 4q6 0 10 0q5-1 7-2l-3-18q-1 0-4 0q-4 1-7 1q-10 0-14-5q-4-4-4-13l0-153z"/>
+</defs>
+<rect width="1280" height="400" rx="28" fill="#a00001"/>
+<g transform="translate(1230,40)" fill="none" stroke="#a0000f" stroke-width="3">
+<circle r="60"/>
+<circle r="41.9"/>
+</g>
+<path d="M-40,0 a40,40 0 0 1 80,0z" fill="none" stroke="#a0000f" stroke-width="3" transform="translate(1180,404) rotate(180)"/>
+<g fill="#a00007" transform="translate(60 98) scale(0.14400 -0.14400)" >
+<use href="#g0" x="0"/>
+<use href="#g1" x="123"/>
+<use href="#g2" x="205"/>
+<use href="#g3" x="338"/>
+<use href="#g5" x="573"/>
+<use href="#g6" x="706"/>
+<use href="#g5" x="838"/>
+<use href="#g7" x="970"/>
+<use href="#g8" x="1086"/>
+<use href="#g8" x="1216"/>
+<use href="#g2" x="1291"/>
+<use href="#g5" x="1478"/>
+<use href="#g6" x="1611"/>
+<use href="#g9" x="1744"/>
+<use href="#g10" x="1791"/>
+<use href="#g5" x="1930"/>
+<use href="#g7" x="2062"/>
+<use href="#g11" x="2178"/>
+<use href="#g5" x="2304"/>
+<use href="#g12" x="2436"/>
+<use href="#g9" x="2534"/>
+<use href="#g7" x="2581"/>
+<use href="#g2" x="2752"/>
+<use href="#g7" x="2884"/>
+<use href="#g5" x="3000"/>
+<use href="#g13" x="3188"/>
+<use href="#g2" x="3238"/>
+<use href="#g2" x="3370"/>
+<use href="#g14" x="3503"/>
+<use href="#g15" x="3642"/>
+</g>
+<rect x="60" y="124" width="272" height="206" rx="28" fill="#a00002"/>
+<rect x="60" y="124" width="272" height="206" rx="28" fill="none" stroke="#a00005" stroke-width="2" opacity="0">
+<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.000;0.020;0.230;0.250;1" dur="8s" repeatCount="indefinite"/>
+</rect>
+<g transform="translate(108,178) scale(1.35)">
+<circle r="5" fill="#a00005"/>
+<circle r="5" fill="none" stroke="#a00005" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+<animate attributeName="r" values="5;15" dur="2s" repeatCount="indefinite"/>
+<animate attributeName="opacity" values="1;0" dur="2s" repeatCount="indefinite"/>
+</circle>
+</g>
+<g fill="#a00008" transform="translate(293 168) scale(0.07200 -0.07200)" >
+<use href="#g16" x="0"/>
+<use href="#g17" x="126"/>
+</g>
+<g fill="#a00007" transform="translate(84 240) scale(0.09600 -0.09600)" >
+<use href="#g18" x="0"/>
+<use href="#g1" x="123"/>
+<use href="#g9" x="205"/>
+<use href="#g19" x="252"/>
+<use href="#g19" x="381"/>
+<use href="#g5" x="510"/>
+<use href="#g1" x="642"/>
+</g>
+<g fill="#a00008" transform="translate(84 268) scale(0.05469 -0.05469)" >
+<use href="#g20" x="0"/>
+<use href="#g21" x="171"/>
+<use href="#g23" x="384"/>
+<use href="#g24" x="521"/>
+<use href="#g23" x="578"/>
+<use href="#g25" x="716"/>
+<use href="#g26" x="804"/>
+<use href="#g27" x="1023"/>
+<use href="#g23" x="1155"/>
+<use href="#g28" x="1360"/>
+<use href="#g24" x="1510"/>
+<use href="#g23" x="1567"/>
+<use href="#g21" x="1704"/>
+<use href="#g29" x="1849"/>
+<use href="#g30" x="1998"/>
+<use href="#g31" x="2141"/>
+<use href="#g30" x="2278"/>
+<use href="#g21" x="2420"/>
+<use href="#g29" x="2565"/>
+<use href="#g32" x="2714"/>
+<use href="#g25" x="2861"/>
+<use href="#g23" x="3017"/>
+</g>
+<g fill="#a00008" transform="translate(84 288) scale(0.05469 -0.05469)" >
+<use href="#g33" x="0"/>
+<use href="#g34" x="128"/>
+<use href="#g35" x="267"/>
+<use href="#g30" x="412"/>
+<use href="#g36" x="554"/>
+<use href="#g37" x="705"/>
+<use href="#g24" x="850"/>
+<use href="#g30" x="906"/>
+<use href="#g36" x="1049"/>
+<use href="#g28" x="1267"/>
+<use href="#g24" x="1417"/>
+<use href="#g23" x="1474"/>
+<use href="#g21" x="1611"/>
+<use href="#g33" x="1824"/>
+<use href="#g29" x="1951"/>
+<use href="#g23" x="2033"/>
+<use href="#g25" x="2170"/>
+<use href="#g29" x="2259"/>
+<use href="#g33" x="2340"/>
+<use href="#g23" x="2535"/>
+<use href="#g26" x="2740"/>
+<use href="#g38" x="2959"/>
+<use href="#g33" x="3016"/>
+<use href="#g33" x="3144"/>
+<use href="#g38" x="3271"/>
+<use href="#g32" x="3328"/>
+<use href="#g21" x="3474"/>
+<use href="#g39" x="3619"/>
+</g>
+<rect x="356" y="124" width="272" height="206" rx="28" fill="#a00002"/>
+<rect x="356" y="124" width="272" height="206" rx="28" fill="none" stroke="#a00005" stroke-width="2" opacity="0">
+<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.250;0.270;0.480;0.500;1" dur="8s" repeatCount="indefinite"/>
+</rect>
+<g transform="translate(404,178) scale(1.35)">
+<path d="M-10,0 L9,-11 M-10,0 L9,0 M-10,0 L9,11" fill="none" stroke="#a00005" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="-11" r="4.5" fill="#a00005"/>
+<circle cx="11" cy="-11" r="3.5" fill="#a00005"/>
+<circle cx="11" cy="0" r="3.5" fill="#a00005"/>
+<circle cx="11" cy="11" r="3.5" fill="#a00005"/>
+</g>
+<g fill="#a00008" transform="translate(584.3 168) scale(0.07200 -0.07200)" >
+<use href="#g16" x="0"/>
+<use href="#g40" x="126"/>
+</g>
+<g fill="#a00007" transform="translate(380 240) scale(0.09600 -0.09600)" >
+<use href="#g41" x="0"/>
+<use href="#g1" x="164"/>
+<use href="#g11" x="246"/>
+<use href="#g42" x="372"/>
+<use href="#g5" x="488"/>
+<use href="#g43" x="620"/>
+<use href="#g8" x="734"/>
+<use href="#g1" x="808"/>
+<use href="#g44" x="890"/>
+<use href="#g8" x="1031"/>
+<use href="#g5" x="1106"/>
+</g>
+<g fill="#a00008" transform="translate(380 268) scale(0.05469 -0.05469)" >
+<use href="#g45" x="0"/>
+<use href="#g32" x="160"/>
+<use href="#g25" x="307"/>
+<use href="#g46" x="395"/>
+<use href="#g32" x="532"/>
+<use href="#g21" x="678"/>
+<use href="#g23" x="891"/>
+<use href="#g33" x="1028"/>
+<use href="#g33" x="1156"/>
+<use href="#g38" x="1283"/>
+<use href="#g47" x="1340"/>
+<use href="#g21" x="1490"/>
+<use href="#g33" x="1635"/>
+<use href="#g23" x="1830"/>
+<use href="#g21" x="1968"/>
+<use href="#g36" x="2113"/>
+<use href="#g34" x="2330"/>
+<use href="#g32" x="2470"/>
+<use href="#g32" x="2616"/>
+<use href="#g25" x="2762"/>
+<use href="#g36" x="2851"/>
+<use href="#g38" x="3001"/>
+<use href="#g21" x="3058"/>
+<use href="#g23" x="3203"/>
+<use href="#g29" x="3340"/>
+<use href="#g30" x="3422"/>
+<use href="#g33" x="3565"/>
+</g>
+<g fill="#a00008" transform="translate(380 288) scale(0.05469 -0.05469)" >
+<use href="#g29" x="0"/>
+<use href="#g35" x="82"/>
+<use href="#g30" x="226"/>
+<use href="#g25" x="437"/>
+<use href="#g38" x="525"/>
+<use href="#g47" x="582"/>
+<use href="#g35" x="732"/>
+<use href="#g29" x="877"/>
+<use href="#g31" x="1026"/>
+<use href="#g30" x="1163"/>
+<use href="#g35" x="1306"/>
+<use href="#g38" x="1451"/>
+<use href="#g34" x="1508"/>
+<use href="#g24" x="1647"/>
+<use href="#g30" x="1704"/>
+<use href="#g33" x="1846"/>
+<use href="#g27" x="1974"/>
+<use href="#g23" x="2106"/>
+<use href="#g30" x="2243"/>
+<use href="#g25" x="2386"/>
+<use href="#g38" x="2474"/>
+<use href="#g23" x="2531"/>
+<use href="#g24" x="2669"/>
+<use href="#g23" x="2793"/>
+<use href="#g21" x="2930"/>
+<use href="#g36" x="3076"/>
+</g>
+<g fill="#a00008" transform="translate(380 308) scale(0.05469 -0.05469)" >
+<use href="#g47" x="0"/>
+<use href="#g25" x="150"/>
+<use href="#g32" x="239"/>
+<use href="#g37" x="385"/>
+<use href="#g21" x="530"/>
+<use href="#g36" x="675"/>
+<use href="#g39" x="825"/>
+</g>
+<rect x="652" y="124" width="272" height="206" rx="28" fill="#a00002"/>
+<rect x="652" y="124" width="272" height="206" rx="28" fill="none" stroke="#a00005" stroke-width="2" opacity="0">
+<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.500;0.520;0.730;0.750;1" dur="8s" repeatCount="indefinite"/>
+</rect>
+<g transform="translate(700,178) scale(1.35)">
+<circle r="11" fill="none" stroke="#a00005" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+<circle r="3.5" fill="#a00005"/>
+<path d="M0,-17 V-12 M0,12 V17 M-17,0 H-12 M12,0 H17" fill="none" stroke="#a00005" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g fill="#a00008" transform="translate(880.5 168) scale(0.07200 -0.07200)" >
+<use href="#g16" x="0"/>
+<use href="#g48" x="126"/>
+</g>
+<g fill="#a00007" transform="translate(676 240) scale(0.09600 -0.09600)" >
+<use href="#g49" x="0"/>
+<use href="#g2" x="157"/>
+<use href="#g13" x="290"/>
+<use href="#g13" x="340"/>
+<use href="#g5" x="390"/>
+<use href="#g11" x="522"/>
+<use href="#g8" x="648"/>
+<use href="#g50" x="778"/>
+<use href="#g44" x="1001"/>
+<use href="#g7" x="1141"/>
+<use href="#g44" x="1257"/>
+<use href="#g13" x="1398"/>
+<use href="#g51" x="1448"/>
+<use href="#g43" x="1578"/>
+<use href="#g5" x="1692"/>
+</g>
+<g fill="#a00008" transform="translate(676 268) scale(0.05469 -0.05469)" >
+<use href="#g52" x="0"/>
+<use href="#g30" x="171"/>
+<use href="#g35" x="314"/>
+<use href="#g38" x="459"/>
+<use href="#g34" x="516"/>
+<use href="#g24" x="655"/>
+<use href="#g30" x="712"/>
+<use href="#g23" x="922"/>
+<use href="#g21" x="1060"/>
+<use href="#g36" x="1205"/>
+<use href="#g33" x="1422"/>
+<use href="#g38" x="1550"/>
+<use href="#g29" x="1607"/>
+<use href="#g30" x="1688"/>
+<use href="#g53" x="1831"/>
+<use href="#g33" x="1944"/>
+<use href="#g30" x="2072"/>
+<use href="#g21" x="2214"/>
+<use href="#g33" x="2359"/>
+<use href="#g32" x="2487"/>
+<use href="#g25" x="2633"/>
+<use href="#g36" x="2789"/>
+<use href="#g23" x="2939"/>
+<use href="#g29" x="3077"/>
+<use href="#g23" x="3158"/>
+<use href="#g23" x="3363"/>
+<use href="#g25" x="3501"/>
+<use href="#g30" x="3589"/>
+</g>
+<g fill="#a00008" transform="translate(676 288) scale(0.05469 -0.05469)" >
+<use href="#g47" x="0"/>
+<use href="#g23" x="150"/>
+<use href="#g29" x="288"/>
+<use href="#g35" x="369"/>
+<use href="#g30" x="514"/>
+<use href="#g25" x="657"/>
+<use href="#g30" x="746"/>
+<use href="#g36" x="888"/>
+<use href="#g23" x="1106"/>
+<use href="#g21" x="1243"/>
+<use href="#g36" x="1388"/>
+<use href="#g23" x="1606"/>
+<use href="#g21" x="1743"/>
+<use href="#g23" x="1888"/>
+<use href="#g24" x="2026"/>
+<use href="#g46" x="2083"/>
+<use href="#g33" x="2220"/>
+<use href="#g30" x="2347"/>
+<use href="#g36" x="2490"/>
+<use href="#g38" x="2707"/>
+<use href="#g21" x="2764"/>
+<use href="#g32" x="2977"/>
+<use href="#g21" x="3123"/>
+<use href="#g30" x="3268"/>
+</g>
+<g fill="#a00008" transform="translate(676 308) scale(0.05469 -0.05469)" >
+<use href="#g28" x="0"/>
+<use href="#g24" x="150"/>
+<use href="#g23" x="207"/>
+<use href="#g34" x="344"/>
+<use href="#g30" x="484"/>
+<use href="#g39" x="626"/>
+</g>
+<rect x="948" y="124" width="272" height="206" rx="28" fill="#a00002"/>
+<rect x="948" y="124" width="272" height="206" rx="28" fill="none" stroke="#a00005" stroke-width="2" opacity="0">
+<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.750;0.770;0.980;1.000;1" dur="8s" repeatCount="indefinite"/>
+</rect>
+<g transform="translate(996,178) scale(1.35)">
+<path d="M-15,0 H15" fill="none" stroke="#a00005" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="-14" r="4" fill="#a00005"/>
+<circle cx="-2" r="4" fill="#a00005"/>
+<circle cx="11" r="4.5" fill="#a00002" stroke="#a00005" stroke-width="2"/>
+</g>
+<g fill="#a00008" transform="translate(1174.8 168) scale(0.07200 -0.07200)" >
+<use href="#g16" x="0"/>
+<use href="#g54" x="126"/>
+</g>
+<g fill="#a00007" transform="translate(972 240) scale(0.09600 -0.09600)" >
+<use href="#g55" x="0"/>
+<use href="#g11" x="139"/>
+<use href="#g8" x="265"/>
+<use href="#g50" x="395"/>
+<use href="#g1" x="618"/>
+<use href="#g5" x="700"/>
+<use href="#g11" x="832"/>
+<use href="#g2" x="958"/>
+<use href="#g1" x="1091"/>
+<use href="#g10" x="1173"/>
+</g>
+<g fill="#a00008" transform="translate(972 268) scale(0.05469 -0.05469)" >
+<use href="#g56" x="0"/>
+<use href="#g28" x="194"/>
+<use href="#g30" x="344"/>
+<use href="#g25" x="486"/>
+<use href="#g23" x="575"/>
+<use href="#g29" x="712"/>
+<use href="#g32" x="794"/>
+<use href="#g25" x="940"/>
+<use href="#g33" x="1029"/>
+<use href="#g47" x="1224"/>
+<use href="#g30" x="1374"/>
+<use href="#g29" x="1517"/>
+<use href="#g34" x="1666"/>
+<use href="#g24" x="1805"/>
+<use href="#g30" x="1862"/>
+<use href="#g23" x="2004"/>
+<use href="#g25" x="2142"/>
+<use href="#g25" x="2298"/>
+<use href="#g30" x="2387"/>
+<use href="#g33" x="2529"/>
+<use href="#g37" x="2657"/>
+<use href="#g24" x="2802"/>
+<use href="#g29" x="2859"/>
+<use href="#g33" x="2940"/>
+<use href="#g23" x="3135"/>
+<use href="#g21" x="3273"/>
+<use href="#g36" x="3418"/>
+<use href="#g23" x="3635"/>
+</g>
+<g fill="#a00008" transform="translate(972 288) scale(0.05469 -0.05469)" >
+<use href="#g33" x="0"/>
+<use href="#g30" x="128"/>
+<use href="#g23" x="270"/>
+<use href="#g25" x="408"/>
+<use href="#g34" x="496"/>
+<use href="#g35" x="636"/>
+<use href="#g23" x="781"/>
+<use href="#g57" x="918"/>
+<use href="#g24" x="1068"/>
+<use href="#g30" x="1125"/>
+<use href="#g35" x="1335"/>
+<use href="#g38" x="1480"/>
+<use href="#g33" x="1537"/>
+<use href="#g29" x="1665"/>
+<use href="#g32" x="1746"/>
+<use href="#g25" x="1892"/>
+<use href="#g46" x="1981"/>
+<use href="#g32" x="2185"/>
+<use href="#g58" x="2332"/>
+<use href="#g29" x="2485"/>
+<use href="#g35" x="2566"/>
+<use href="#g30" x="2711"/>
+<use href="#g33" x="2921"/>
+<use href="#g38" x="3049"/>
+<use href="#g29" x="3106"/>
+<use href="#g30" x="3187"/>
+<use href="#g39" x="3330"/>
+</g>
+<path d="M108,360 H996" stroke="#a00009" stroke-width="2"/>
+<path d="M996,360 H1220" stroke="#a00009" stroke-width="2" stroke-dasharray="4 6"/>
+<path d="M108,360 H996" stroke="#a00005" stroke-width="2" stroke-dasharray="888" stroke-dashoffset="888">
+<animate attributeName="stroke-dashoffset" values="888;888;592;592;296;296;0;0" keyTimes="0;.2;.25;.45;.5;.7;.75;1" dur="8s" repeatCount="indefinite"/>
+</path>
+<circle cx="108" cy="360" r="6" fill="#a00001" stroke="#a00005" stroke-width="2"/>
+<circle cx="108" cy="360" r="6" fill="#a00005" opacity="0">
+<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.000;0.010;1" dur="8s" repeatCount="indefinite"/>
+</circle>
+<circle cx="404" cy="360" r="6" fill="#a00001" stroke="#a00005" stroke-width="2"/>
+<circle cx="404" cy="360" r="6" fill="#a00005" opacity="0">
+<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.250;0.260;1" dur="8s" repeatCount="indefinite"/>
+</circle>
+<circle cx="700" cy="360" r="6" fill="#a00001" stroke="#a00005" stroke-width="2"/>
+<circle cx="700" cy="360" r="6" fill="#a00005" opacity="0">
+<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.500;0.510;1" dur="8s" repeatCount="indefinite"/>
+</circle>
+<circle cx="996" cy="360" r="6" fill="#a00001" stroke="#a00005" stroke-width="2"/>
+<circle cx="996" cy="360" r="6" fill="#a00005" opacity="0">
+<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.750;0.760;1" dur="8s" repeatCount="indefinite"/>
+</circle>
+<rect x=".5" y=".5" width="1279" height="399" rx="28" fill="none" stroke="#a0000f"/>
+</svg>
