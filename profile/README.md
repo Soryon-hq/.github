@@ -3,7 +3,7 @@
 </a>
 
 <p align="center">
-  <a href="https://soryon.com"><b>soryon.com</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="mailto:hello@soryon.com"><b>hello@soryon.com</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;Genova, Italy
+  <a href="https://soryon.com"><b>soryon.com</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="mailto:hello@soryon.com"><b>hello@soryon.com</b></a>
 </p>
 
 <br>
